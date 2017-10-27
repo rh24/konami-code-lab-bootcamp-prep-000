@@ -18,3 +18,5 @@ function init(e) {
     index = 0;
   }
 }
+
+document.body(keydown, e)
